@@ -1,1 +1,1 @@
-# NLP_project_Sentimental_Analysis_using_python
+# NLP_project_Sentimental_Analysis_for_Hotel_Reviews
